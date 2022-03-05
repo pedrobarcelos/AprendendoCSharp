@@ -1,0 +1,15 @@
+/Users/pedrobarcelos/Desktop/AprendendoCSharp/bin/Debug/net6.0/AprendendoCSharp
+/Users/pedrobarcelos/Desktop/AprendendoCSharp/bin/Debug/net6.0/AprendendoCSharp.deps.json
+/Users/pedrobarcelos/Desktop/AprendendoCSharp/bin/Debug/net6.0/AprendendoCSharp.runtimeconfig.json
+/Users/pedrobarcelos/Desktop/AprendendoCSharp/bin/Debug/net6.0/AprendendoCSharp.dll
+/Users/pedrobarcelos/Desktop/AprendendoCSharp/bin/Debug/net6.0/AprendendoCSharp.pdb
+/Users/pedrobarcelos/Desktop/AprendendoCSharp/obj/Debug/net6.0/AprendendoCSharp.csproj.AssemblyReference.cache
+/Users/pedrobarcelos/Desktop/AprendendoCSharp/obj/Debug/net6.0/AprendendoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pedrobarcelos/Desktop/AprendendoCSharp/obj/Debug/net6.0/AprendendoCSharp.AssemblyInfoInputs.cache
+/Users/pedrobarcelos/Desktop/AprendendoCSharp/obj/Debug/net6.0/AprendendoCSharp.AssemblyInfo.cs
+/Users/pedrobarcelos/Desktop/AprendendoCSharp/obj/Debug/net6.0/AprendendoCSharp.csproj.CoreCompileInputs.cache
+/Users/pedrobarcelos/Desktop/AprendendoCSharp/obj/Debug/net6.0/AprendendoCSharp.dll
+/Users/pedrobarcelos/Desktop/AprendendoCSharp/obj/Debug/net6.0/refint/AprendendoCSharp.dll
+/Users/pedrobarcelos/Desktop/AprendendoCSharp/obj/Debug/net6.0/AprendendoCSharp.pdb
+/Users/pedrobarcelos/Desktop/AprendendoCSharp/obj/Debug/net6.0/AprendendoCSharp.genruntimeconfig.cache
+/Users/pedrobarcelos/Desktop/AprendendoCSharp/obj/Debug/net6.0/ref/AprendendoCSharp.dll
